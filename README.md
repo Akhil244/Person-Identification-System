@@ -13,18 +13,17 @@ Built a Demo person recognition System using both CNN and YOLOv5 using custom da
 ![WhatsApp Image 2025-05-01 at 01 20 18_9485febe](https://github.com/user-attachments/assets/77a886b6-7e1c-46f9-ad17-8da34e99b874)
 
 
-                    fig: Results of our Object Detection
 
 
 **Install the dependencies relevant to the project:**
 
-pip install ultralytics opencv-python
+           pip install ultralytics opencv-python
 
 
 **then run:**
 
-python train_cnn_model.py
+            python train_cnn_model.py
 
 **then:**
 
-python live_detection.py **[webcam shows up ready for classifying the person in real time]**
+           python live_detection.py      **[webcam shows up ready for classifying the person in real time]**
