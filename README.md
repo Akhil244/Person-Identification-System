@@ -26,4 +26,6 @@ Built a Demo person recognition System using both CNN and YOLOv5 using custom da
 
 **then:**
 
-           python live_detection.py      **[webcam shows up ready for classifying the person in real time]**
+           python live_detection.py
+
+ **[webcam shows up ready for classifying the person in real time]**
